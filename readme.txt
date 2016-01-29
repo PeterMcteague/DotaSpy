@@ -4,3 +4,8 @@ It should ask the user to first create a steam api key in order to call the api 
 It should then ask for a player to be searched for.
 
 Then it should show information about that player for their past X games. For example most common role, most played 3 heroes, name, profile picture and more.
+
+In future releases I plan to:
+-Redo some of the code to remove global variables and make use of functions
+-Make the UI more aesthetically pleasing.
+-Add more functionality.
