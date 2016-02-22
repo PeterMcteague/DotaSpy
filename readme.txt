@@ -6,6 +6,7 @@ It should then ask for a player to be searched for.
 Then it should show information about that player for their past X games. For example most common role, most played 3 heroes, name, profile picture and more.
 
 In future releases I plan to:
--Redo some of the code to remove global variables and make use of functions
+-Fix a bug where on the first launch, SetupWindow stays in memory.
+-Add the ability to change the number of games analyzed, through a entry box
 -Make the UI more aesthetically pleasing.
 -Add more functionality.
