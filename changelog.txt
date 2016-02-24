@@ -1,0 +1,4 @@
+-Fixed a bug where MatchesToGet was 1 less than intended.
+-Allowed the user to enter the number of games they want checked (Max 100, Min 1)
+-Fixed a bug where antimages image wouldn't display
+
