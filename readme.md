@@ -1,4 +1,4 @@
-![Logo](https://github.com/HellkatAnarchy/Dota-2-Player-Info-Getter/blob/master/images/dotaspybanner.png?raw=true)
+![Logo](https://github.com/HellkatAnarchy/DotaSpy/blob/master/images/dotaspybanner.png?raw=true)
 
 ###What is DotaSpy?
 
