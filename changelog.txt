@@ -1,4 +1,14 @@
--Fixed a bug where MatchesToGet was 1 less than intended.
--Allowed the user to enter the number of games they want checked (Max 100, Min 1)
--Fixed a bug where antimages image wouldn't display
-
+V2.0
+-Updated readme.txt
+-Updated changelog.txt
+-Added an icon for the application
+-Named project dotaspy
+-Added a banner to the setup screen
+-Stopped profiles from displaying if an invalid url is entered
+-Hid hero icons of private profiles instead of displaying defaults.
+-Added the number of times the top 3 heroes have been played in X games under the image.
+-Fixed a bug where private profiles showed hero pictures (From the unsorted list) and displayed role.
+-Fixed a bug where players who did not play dota would be reported as having private profiles.
+-Pressing enter now submits the profile.
+-Made displaying of hero information more efficient (Now only attempts to do so when appropriate)
+-Made various visual improvements to main window
